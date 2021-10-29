@@ -1,4 +1,4 @@
-<!DOCTYPE hmtl>
+
 <html>
 <head>
 <meta charset="utf-8">
@@ -36,5 +36,4 @@
 		<li> cheft de projet chez ...;</li>
 	</ul>
 	</p>
-	</body>
-	</html>
+	
